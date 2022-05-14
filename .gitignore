@@ -1,0 +1,4 @@
+vendor/
+.vs/
+.vscode/
+.settings.ini
